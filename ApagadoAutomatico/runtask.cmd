@@ -1,0 +1,1 @@
+C:\Programas\ApagadoAutomatico\ApagadoAutomatico.hta
